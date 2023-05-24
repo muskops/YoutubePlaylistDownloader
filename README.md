@@ -18,3 +18,5 @@ A simple program to download whole playlists\channels or even single videos from
 ## Screenshots
 ![Gif](https://i.imgur.com/bQw4fVm.gif "Gif")
 
+## Need to Run
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-7.0.0-windows-x64-installer
